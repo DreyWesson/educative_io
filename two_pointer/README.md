@@ -1,9 +1,9 @@
 
 ### Leetcode 2 pointer problems
-- [x] 2Sum
-- [ ] 3Sum [Just one match]
-- [ ] 3Sum [All]
+- [ ] 2Sum
 - [ ] 3Sum Closest
+- [ ] 3Sum [All]
+- [ ] 3Sum [Just one match]
 - [ ] 4Sum
 - [ ] Container With Most Water
 - [ ] Intersection of Two Linked Lists

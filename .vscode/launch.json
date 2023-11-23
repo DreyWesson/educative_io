@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/oduwoledare/atoms/interview/educativeIO/two_pointer",
-      "program": "/Users/oduwoledare/atoms/interview/educativeIO/two_pointer/build/Debug/outDebug"
+      "cwd": "/Users/doduwole/Documents/educative_io",
+      "program": "/Users/doduwole/Documents/educative_io/build/Debug/outDebug"
     }
   ]
 }
